@@ -1,4 +1,4 @@
-# IE5374-Data-Analysis-Projects
+# IE5374 - Data Analysis Projects
 The files contain mini project on various data analysis techniques.
 
 `IE5374_Project1.ipynb`: Clustering methods using k-mean and hierarchical clustering
